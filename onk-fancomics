@@ -1,0 +1,17 @@
+{
+  "title": "Oshi no Ko Fancomics",
+  "description": "Oshi no Ko Fancomics TL from the Oshi no Ko discord",
+  "artist": "Various",
+  "author": "Various",
+  "cover": "add later idk",
+  "chapters": {
+    "1": {
+      "title": "Kana a cute",
+      "volume": "1",
+      "groups": {
+        "DirewolfX & Spookysperm": "/proxy/api/imgur/chapter/YIriH6H/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
