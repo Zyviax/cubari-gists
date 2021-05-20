@@ -1,9 +1,9 @@
 {
   "title": "Oshi no Ko Fancomics",
-  "description": "Oshi no Ko Fancomics TL from the Oshi no Ko discord",
+  "description": "Oshi no Ko Fancomics TL from the Oshi no Ko discord, 1-17 from @yurigera_8959, 18 from @tawashi3240",
   "artist": "Various",
   "author": "Various",
-  "cover": "add later idk",
+  "cover": "https://cdn.discordapp.com/attachments/844582015872794636/844949002054008842/sample_02.jpg",
   "chapters": {
     "1": {
       "title": "Kana a cute",
@@ -12,6 +12,164 @@
         "DirewolfX & Spookysperm": "/proxy/api/imgur/chapter/YIriH6H/"
       },
       "last_updated": "1616368746"
-    }
+    },
+    
+    "2": {
+      "title": "Aqua Siscon",
+      "volume": "1",
+      "groups": {
+        "Kanj": "/proxy/api/imgur/chapter/gQjyAjz/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "3": {
+      "title": "Kana/Akane Catfight",
+      "volume": "1",
+      "groups": {
+        "oldpier & animan095": "/proxy/api/imgur/chapter/fheHmqX/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "4": {
+      "title": "Kana Hope",
+      "volume": "1",
+      "groups": {
+        "oldpier & mnecch": "/proxy/api/imgur/chapter/yuLPVzr/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "5": {
+      "title": "Akane Act",
+      "volume": "1",
+      "groups": {
+        "oldpier & animan095": "/proxy/api/imgur/chapter/MkkG7V1/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "6": {
+      "title": "Aqua & Ruby sleeping together",
+      "volume": "1",
+      "groups": {
+        "Kanj & Spookysperm": "/proxy/api/imgur/chapter/JCJCT97/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "7": {
+      "title": "Kana Arima's Staying at the Hoshino's",
+      "volume": "1",
+      "groups": {
+        "Teammìe": "/proxy/api/imgur/chapter/9TLEOwL/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "8": {
+      "title": "Kana's White Day Present",
+      "volume": "1",
+      "groups": {
+        "Teammìe": "/proxy/api/imgur/chapter/rz0hZWG/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "9": {
+      "title": "A Real-time Post",
+      "volume": "1",
+      "groups": {
+        "Teammìe": "/proxy/api/imgur/chapter/GVxv7z1/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "10": {
+      "title": "Ruby's Sister-In-Law",
+      "volume": "1",
+      "groups": {
+        "Splitter Triplets & mnechh": "/proxy/api/imgur/chapter/2cl3pQr/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "11": {
+      "title": "Celebrities in Disguise",
+      "volume": "1",
+      "groups": {
+        "Teammìe": "/proxy/api/imgur/chapter/fNEevSL/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "12": {
+      "title": "Kana Arima's Staying at the Hoshino's 2",
+      "volume": "1",
+      "groups": {
+        "?": "/proxy/api/imgur/chapter/GGzQtj9/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "13": {
+      "title": "Aqua Wants to Say Something",
+      "volume": "1",
+      "groups": {
+        "Teammìe": "/proxy/api/imgur/chapter/gdXk94t/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "14": {
+      "title": "Kana and Ruby See a Sleeping Aqua",
+      "volume": "1",
+      "groups": {
+        "DirewolfX & Spookysperm": "/proxy/api/imgur/chapter/NXWGYaS/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "15": {
+      "title": "Halloween Party",
+      "volume": "1",
+      "groups": {
+        "Kanj": "/proxy/api/imgur/chapter/avUF2Bm/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "16": {
+      "title": "Going Home Alone",
+      "volume": "1",
+      "groups": {
+        "Teammìe": "/proxy/api/imgur/chapter/eD2MhsZ/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "17": {
+      "title": "Kana feeds Aqua",
+      "volume": "1",
+      "groups": {
+        "Teammìe": [
+          "https://cdn.discordapp.com/attachments/728679760171106355/843438649877463070/1.png"
+        ]
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "18": {
+      "title": "Akane & Aqua",
+      "volume": "1",
+      "groups": {
+        "Teammìe": [
+          "https://cdn.discordapp.com/attachments/728679760171106355/844250623779274762/1.png",
+          "https://cdn.discordapp.com/attachments/728679760171106355/844250634755637328/2.png"
+        ]
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
