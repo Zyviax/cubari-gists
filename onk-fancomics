@@ -161,13 +161,10 @@
     },
     
     "18": {
-      "title": "Akane & Aqua",
+      "title": "Actor's Job",
       "volume": "1",
       "groups": {
-        "Teammìe": [
-          "https://cdn.discordapp.com/attachments/728679760171106355/844250623779274762/1.png",
-          "https://cdn.discordapp.com/attachments/728679760171106355/844250634755637328/2.png"
-        ]
+        "Teammìe": "/proxy/api/imgur/chapter/DwGkMYr/"
       },
       "last_updated": "1616368746"
     }
